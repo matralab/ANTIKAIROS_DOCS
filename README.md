@@ -4,4 +4,4 @@
 Documentation for the use of the digiscore for ANTIKAIROS
 
 
- <a href="https://kaseypocius.github.io/MUMT618-DREV/about"> Read more about the project here </a>
+ <a href="https://matralab.github.io/ANTIKAIROS_DOCS/"> Read more about the project here </a>
