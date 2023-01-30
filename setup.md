@@ -11,6 +11,9 @@ To get set-up, follow the steps below:
 
 3. When the application opens, it will note the web address needed to connect in the top left hand corner. Note this down.
 
+<img src="pics/circle_left.png" alt="Location of IP"> <br>
+<img src="pics/IP_close_up.png" alt="IP CloseUP"> <br>
+
 4. Enter the address in the client devices' web browsers. 
 
 5. When prompted, enter fullscreen mode.
