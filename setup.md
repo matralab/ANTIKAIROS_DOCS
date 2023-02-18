@@ -8,6 +8,12 @@ To get set-up, follow the steps below:
 1. Ensure all the devices are on the same network. This could all be on wifi, but a wired connection for the server 
 
 2. Open the app on the server computer. 
+<a href="https://appleinsider.com/inside/macos/tips/how-to-launch-any-macos-app-even-those-not-notarized-by-apple/"> You may need to follow these steps if you are running MaxOS 10.15 or newer. </a> 
+
+For ARM64 (M1) devices, you will need to disable app nap. This can be found by right clicking on the app -> Get Info -> "prevent app nap"
+
+<img src="pics/appnap.png" alt="Prevent App Nap"> 
+
 
 3. When the application opens, it will note the web address needed to connect in the top left hand corner. Note this down.
 
